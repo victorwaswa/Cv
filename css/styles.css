@@ -1,5 +1,5 @@
 body{
-    background-color:white;
+    background-image :url("http://yesofcorsa.com/wp-content/uploads/2017/12/Writing-Pen-Wallpaper-Full-HD.jpg");
 }
 .row1{
     margin-left: 10%;
@@ -39,4 +39,8 @@ font-family: 'Bad Script', cursive;
     margin-top: -10%;
     font-family: 'Dancing Script', cursive;
     font-family: 'Bad Script', cursive;
+}
+.row7{
+    margin-left: 55%;
+    margin-top: -55%;
 }
